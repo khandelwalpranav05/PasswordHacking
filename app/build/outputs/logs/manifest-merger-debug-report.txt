@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Pranav\.android\build-cache\3236bed0f368d7e4951b14353a8d0cfa2b0d0c9a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Pranav\.android\build-cache\0af5327bdcd96dc868e428c74a011b1060b9f0fc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Pranav\.android\build-cache\a5ff760977a82f7d6bf5b080ce4cacdbba08ec35\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Pranav\.android\build-cache\9906e0860311544e1caff525eeb45c29ac0692d5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Pranav\.android\build-cache\ae18dcdc76b49bde97d1baa00ddba8c4fcc40a3b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Pranav\.android\build-cache\1a2e07e6e41dd6daf792ed12a00905e67f26445b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Pranav\.android\build-cache\2349424f61cfa45e7825064e058d90d7f9689c9b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Pranav\.android\build-cache\97c1e04da84ec2948c8f283cd11c3ae9f9554b63\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Pranav\.android\build-cache\30b032eb14ddf5bec7becff64f30138c73bf3352\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Pranav\.android\build-cache\0a528d3a3b7e3725aa01bc32cc0dc6466df18094\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Pranav\.android\build-cache\847761efcd41b6b1258818893246dd9aae3cdbe3\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:15:9-28
+activity#com.example.piyush.passwordhackingsystem.activities.SecondActivity
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:17:9-21:20
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:17:19-60
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:18:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:19:25-66
+activity#com.example.piyush.passwordhackingsystem.activities.WelcomeActivity
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:configChanges
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:24:13-74
+	android:theme
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:23:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:26:13-30:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.piyush.passwordhackingsystem.activities.PasswordGuessingActivity
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:32:9-34:62
+	android:theme
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:34:13-59
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:33:13-64
+activity#com.example.piyush.passwordhackingsystem.activities.LoginActivity
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:35:9-62
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:35:19-59
+activity#com.example.piyush.passwordhackingsystem.activities.StrengthActivity
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:36:9-65
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:36:19-62
+activity#com.example.piyush.passwordhackingsystem.activities.StrengthScoreActivity
+ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:37:9-79
+	android:name
+		ADDED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml:37:19-67
+uses-sdk
+INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Pranav\.android\build-cache\3236bed0f368d7e4951b14353a8d0cfa2b0d0c9a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Pranav\.android\build-cache\0af5327bdcd96dc868e428c74a011b1060b9f0fc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Pranav\.android\build-cache\a5ff760977a82f7d6bf5b080ce4cacdbba08ec35\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Pranav\.android\build-cache\9906e0860311544e1caff525eeb45c29ac0692d5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Pranav\.android\build-cache\ae18dcdc76b49bde97d1baa00ddba8c4fcc40a3b\output\AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Pranav\.android\build-cache\1a2e07e6e41dd6daf792ed12a00905e67f26445b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Pranav\.android\build-cache\2349424f61cfa45e7825064e058d90d7f9689c9b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Pranav\.android\build-cache\97c1e04da84ec2948c8f283cd11c3ae9f9554b63\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Pranav\.android\build-cache\30b032eb14ddf5bec7becff64f30138c73bf3352\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Pranav\.android\build-cache\0a528d3a3b7e3725aa01bc32cc0dc6466df18094\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Pranav\.android\build-cache\847761efcd41b6b1258818893246dd9aae3cdbe3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Pranav\.android\build-cache\3236bed0f368d7e4951b14353a8d0cfa2b0d0c9a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pranav\AndroidStudioProjects\PasswordHackingSystem-master\app\src\main\AndroidManifest.xml
